@@ -1,6 +1,6 @@
 const $ = require('jquery');
 
-
+console.log('test');
 console.log('hello');
 
 const person = {
