@@ -1,5 +1,9 @@
 const $ = require('jquery');
 
+//connect the keys files into this JS file
+const keys = require("./keys");
+console.log(keys);
+
 console.log('test');
 console.log('hello');
 
@@ -15,4 +19,5 @@ sayHello(person);
 
 $(document).ready(() =>{
     $('body').html(sayHello(person));
+
 });
