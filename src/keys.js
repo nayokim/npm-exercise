@@ -1,4 +1,5 @@
-//you have to put your data into an object. IT is the best way to export information instead of exporting one-by-one.
+//meant to be used with require keyword.
+// you have to put your data into an object. IT is the best way to export information instead of exporting one-by-one.
 const keys = {
     MAP_API_KEY: "1234123asdas",
     GITHUB_API_KEY : "12as",
